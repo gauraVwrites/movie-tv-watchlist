@@ -2,9 +2,11 @@ Movies:
 - Inception
 - The Matrix
 - The Interstellar
+- Lord of the Rings
 
 
 TV Shows:
 - Breaking Bad
 - Stranger Things
 - The Witcher
+- Game of Thrones
